@@ -1,10 +1,9 @@
-Must install KubeJS and NetJS for the client
 # Discord-Events-KubeJS
 A set of scripts that allows you to synchronize your community server's discord events with your own in-game events!
 DO NOT USE ANY FILE INSIDE THE "updateGist" FOLDER INSIDE OF YOUR MODPACK, THIS HAS SENSITIVE DATA ON IT.
 
 How to use:
-
+Must install KubeJS and NetJS for the client
 **Gather data from Discord and upload it to gist.**
 Inside of the updateGist folder you will find the file updateGistDiscordEvents.js and run.bat,
 1. Open a terminal inside this folder and run the command "npm install axios".
