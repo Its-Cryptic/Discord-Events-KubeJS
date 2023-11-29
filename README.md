@@ -17,3 +17,5 @@ Inside of the updateGist folder you will find the file updateGistDiscordEvents.j
 Inside the kubejs folder you will find startup_scripts and server_scripts
 In startup_scripts, startup.js allows you to define types of events that can be called as well as the overall event identifier.
 
+When creating an event on discord, you want to set the location of the event to your identifier, by default this is my modpack "[Rift Realms]"
+and set the name of the event to be one of the predefined events inside of the startup script. Ex: "Party Time!". Then let the scripts do their magic!
