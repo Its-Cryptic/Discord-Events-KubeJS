@@ -1,3 +1,4 @@
+Must install KubeJS and NetJS for the client
 # Discord-Events-KubeJS
 A set of scripts that allows you to synchronize your community server's discord events with your own in-game events!
 DO NOT USE ANY FILE INSIDE THE "updateGist" FOLDER INSIDE OF YOUR MODPACK, THIS HAS SENSITIVE DATA ON IT.
