@@ -1,0 +1,40 @@
+{
+	"events": [
+		{
+			"id": "1179237478180339842",
+			"guild_id": "1165844313696108635",
+			"name": "Party Time!",
+			"description": "Its Party Time!",
+			"channel_id": null,
+			"creator_id": "136619841648852992",
+			"creator": {
+				"id": "136619841648852992",
+				"username": "aidan.com",
+				"avatar": "931c5469a62e805fe5ccbf882659f761",
+				"discriminator": "0",
+				"public_flags": 256,
+				"premium_type": 2,
+				"flags": 256,
+				"banner": "becdcaa4da448d9056a82300aa9013e7",
+				"accent_color": 12583167,
+				"global_name": "Aidan",
+				"avatar_decoration_data": null,
+				"banner_color": "#c000ff"
+			},
+			"image": "57877df5201bff63cab3edb37cd3f701",
+			"scheduled_start_time": "2023-11-29T02:00:00.224000+00:00",
+			"scheduled_end_time": "2023-11-29T05:00:00.224000+00:00",
+			"status": 1,
+			"entity_type": 3,
+			"entity_id": null,
+			"recurrence_rule": null,
+			"privacy_level": 2,
+			"sku_ids": [],
+			"auto_start": true,
+			"guild_scheduled_event_exceptions": [],
+			"entity_metadata": {
+				"location": "[Rift Realms]"
+			}
+		}
+	]
+}
